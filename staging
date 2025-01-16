@@ -1,0 +1,9 @@
+[workstations]
+workstation-01.network.lan
+
+[controllers]
+controller-01.network.lan
+
+[nodes]
+node-01.network.lan
+node-02.network.lan
